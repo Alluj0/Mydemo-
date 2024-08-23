@@ -1,3 +1,3 @@
 # Mydemo-
-This is my fist repository.
+This is my first Git-repository.
 Author-Alekhya
